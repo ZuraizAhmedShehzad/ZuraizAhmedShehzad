@@ -1,7 +1,17 @@
-- 👋 Hi, I’m @ZuraizAhmedShehzad
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# How you doin'? <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+:pen: **About Me** <br>
+- **Full Stack Software Engineer**
+- **Primary Languages:** C# | JS
+- **Secondary Language:** Python 
+- **Cloud Enthusiast**
+- **Aiming To Become A Solution Architect**<br>
+
+:wrench: **Tools & Technologies** <br>
+
+<img src=https://img.shields.io/badge/Code-C%23-blue> <img src=https://img.shields.io/badge/Code-Javascript-blue> <img src=https://img.shields.io/badge/Code-Python-blue>
+<img src=https://img.shields.io/badge/Code-NodeJS-blue> <br> <img src=https://img.shields.io/badge/Code-Vue-blue> <img src=https://img.shields.io/badge/Tool-Grpc-blue>
+<img src=https://img.shields.io/badge/Tool-Postman-blue>
+
+
 
 
