@@ -1,4 +1,4 @@
-# How you doin'? <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# How you doin'? <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 :pen: **About Me** <br>
 - **Full Stack Software Engineer**
 - **Primary Languages:** C# | JS
