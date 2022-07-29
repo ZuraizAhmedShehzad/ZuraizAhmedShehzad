@@ -2,7 +2,8 @@
 :pen: **About Me** <br>
 - **Full Stack Software Engineer**
 - **Primary Languages:** C# | JS
-- **Secondary Language:** Python 
+- **Secondary Language:** Python
+- **Primary Frameworks: ** .NET,ASP .NET Webforms
 - **Cloud Enthusiast**
 - **Aiming To Become A Solution Architect**<br>
 
